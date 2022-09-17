@@ -1,0 +1,38 @@
+export const themeLight = {
+  colour: {
+    primary: "#FCCA69",
+    link: "#4D62FF",
+    success: "#77DD66",
+    warning: "#FFC839",
+    danger: "#FF6961",
+    headingText: "#1D1C1A",
+    dark: "#1D1C1A",
+    toggle: "#F1F1E6",
+    bodyText: "#31302E",
+    buttonText: "#31302E",
+    subtleText: "#777776",
+    sidebarText: "#8C8CA1",
+    inputField: "#EBEEF2",
+    cards: "#FAFCFE",
+    background: "#FAFCFE",
+  },
+};
+export const themeDark = {
+  colour: {
+    primary: "#FCCA69",
+    link: "#4D62FF",
+    success: "#77DD66",
+    warning: "#FFC839",
+    danger: "#FF6961",
+    headingText: "#FAFCFD",
+    dark: "#1D1C1A",
+    toggle: "#F1F1E6",
+    bodyText: "#F1F1E6",
+    buttonText: "#31302E",
+    subtleText: "#8C8CA1",
+    sidebarText: "#FAFCFD",
+    inputField: "#07284B",
+    cards: "#04182D",
+    background: "#031425",
+  },
+};
