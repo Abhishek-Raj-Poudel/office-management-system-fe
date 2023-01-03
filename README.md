@@ -1,9 +1,25 @@
-Hello everyone!! This is the frontend part of a Mern stack website . The backend is setup in heroku and this will be setup in netlify
+This is a office management system made with M.E.R.N stack. 
 
-# Front end library
+## Programs Used
+1. Node js
+2. ExpressJs
+3. MongoDB 
+4. Reactjs
+5. Redux
 
-React
+## Things Learned
+1. Build a REST API
+2. Build and work with Schema
+3. Efficiently store data in MongoDB database
+4. Link front-end with back-end
+5. State Management with Redux
+## Features
+**You can**
+- Create your office
+- Make different roles according to your need
+- assign roles to workers in your office
+- create orders from your clients
+- check if client has paid or not and can do minor expence tracking.
 
-# Style
-
-Styled components
+## Demo Website
+[Demo Website](https://www.abhishekrajpoudel.com.np/)
